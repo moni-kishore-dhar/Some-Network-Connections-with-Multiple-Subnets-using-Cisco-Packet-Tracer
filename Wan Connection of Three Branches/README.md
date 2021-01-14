@@ -1,4 +1,4 @@
-•The purpose of this project is to design a suitable network system for an organization which has three branches in three different cities. All branches are connected to the Wan connection.
+• The purpose of this project is to design a suitable network system for an organization which has three branches in three different cities. All branches are connected to the Wan connection.
 
 • For routers I have used class B ( 172.168.0.0 ) IP addresses in serial2/0 and class C (192.168.10.0) ip addresses in fastethernet.
 
