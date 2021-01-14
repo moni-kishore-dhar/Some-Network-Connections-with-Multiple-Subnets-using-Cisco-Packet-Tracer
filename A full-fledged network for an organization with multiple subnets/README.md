@@ -10,6 +10,7 @@ Objectives:
 The main goal of this project is to present a Local Area Network model design suitable for a University by discovering the interconnectivity of the systems and sub-networks. Many universities are searching for ways to integrate networks that have security, backup, and other features available in a university network. The universities are faced with challenges in designing a network that is equal in the standards used by developed countries. The main problem they face deals with a profound budget deficit. This project will help these universities to design a network that employs low-cost solutions without unacceptable compromises in security or quality.
 
 Components:
+
 • Router
 • Server (DHCP+DNS+WEB)
 • Switch
@@ -23,3 +24,13 @@ Components:
 
 Connection Setup:
 The network is divided into subnets and all the subnets are connected through router and all routers are interconnected to each other. Each classroom, lab, library, employees room, faculty room, admission office, administrative office has own subnets. All the IP of end devices are provided through one DHCP server across the whole network.
+
+Justifying the Design:
+My target was to create a complete model of the complex network by discovering the interconnectivity if the systems and subnetworks, which will reflect the INTERNATIONAL APEX University’s structure and facilities. I made it in my network. In this network all the classroom, labs, admission office, administrative office which are basically subnetworks are connected to router. Which are represent the whole university structure.
+
+My second target was to create DHCP, DNS and Web server(HTTP) and also to follow IPV4 Addressing. In my network I used only one server in entire network. Which can provide IPV4 address to every hosts in network. This server also used as DNS server which is resolve the URL. Again this server also provide a web page which reflect university’s profile in http port. Here I can make fulfil of this three demand in one server so it is cost efficient.
+
+My another target was to make wireless connection in whole network. Here I used wireless router and access point also to fill up this demand.
+
+Conclusion
+The network that we designed maintaining those several criteria is quite good as it will be cost efficient. There is always room for development. As network grows structure will grow as well as cost. For security issue considering safety measure is a must. Although there may have been some challenges in this project due to some constraints, at the end our aim was achieved by designing a network for International Apex University.
