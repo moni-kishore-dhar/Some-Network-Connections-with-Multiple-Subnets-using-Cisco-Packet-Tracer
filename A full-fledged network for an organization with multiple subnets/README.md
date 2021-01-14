@@ -21,6 +21,7 @@ Components:
 • Wireless Smart Device
 • Printer
 • Cloud and TV
+•
 
 Connection Setup:
 The network is divided into subnets and all the subnets are connected through router and all routers are interconnected to each other. Each classroom, lab, library, employees room, faculty room, admission office, administrative office has own subnets. All the IP of end devices are provided through one DHCP server across the whole network.
@@ -33,4 +34,4 @@ My second target was to create DHCP, DNS and Web server(HTTP) and also to follow
 My another target was to make wireless connection in whole network. Here I used wireless router and access point also to fill up this demand.
 
 Conclusion: 
-The network that we designed maintaining those several criteria is quite good as it will be cost efficient. There is always room for development. As network grows structure will grow as well as cost. For security issue considering safety measure is a must. Although there may have been some challenges in this project due to some constraints, at the end our aim was achieved by designing a network for International Apex University.
+The network that I designed maintaining those several criteria is quite good as it will be cost efficient. There is always room for development. As network grows structure will grow as well as cost. For security issue considering safety measure is a must. Although there may have been some challenges in this project due to some constraints, at the end my aim was achieved by designing a network for International Apex University.
