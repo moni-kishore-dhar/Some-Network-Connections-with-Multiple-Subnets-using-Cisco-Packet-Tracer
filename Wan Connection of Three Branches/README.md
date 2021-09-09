@@ -19,9 +19,7 @@
 
 
 			<br><br>
-		<center>
-			<img src="Screenshot of Setup.jpg" width="500" height="500">
-		</center>
+		
 
 	</body>
 </html>
