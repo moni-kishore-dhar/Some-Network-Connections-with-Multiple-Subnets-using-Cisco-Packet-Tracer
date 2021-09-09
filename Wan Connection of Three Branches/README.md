@@ -2,7 +2,7 @@
 <html>
 <body>
 
-  <h2>Wan Connection of Three Branches</h2>
+  <h1>Wan Connection of Three Branches</h1>
 
   <ul>
     <li>The purpose of this project is to design a suitable network system for an organization which has three branches in three different cities. All branches are connected to the Wan connection.
@@ -17,8 +17,8 @@
     </li><br>
   </ul> <br><br><br>
  
-  <h2>Design</h2>
-  <img src="Screenshot of Setup.jpg" width="500" height="500"><br>
+  <h3>Design</h3>
+  <img src="Screenshot of Setup.jpg" width="1000" height="500"><br>
   
 
 </body>
