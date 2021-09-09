@@ -15,7 +15,10 @@
     </li>
     <li>Web name for DNS is www.dux.com. Can be accessed from any end device. Just go to web browser from desktop option in any end device and type (www.dux.com) in the url section.
     </li>
-  </ul>  
+  </ul> 
+  <center>
+  	<img src="Screenshot of Setup.jpg" width="500" height="500">
+  	</center> 
 
 </body>
 </html>
