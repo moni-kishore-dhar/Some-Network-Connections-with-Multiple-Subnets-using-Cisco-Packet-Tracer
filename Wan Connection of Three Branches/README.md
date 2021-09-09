@@ -7,7 +7,7 @@
   <ul>
     <li>Array:
       <ul>
-        <li>One-dimensional array</li>
+        <li>One-dtttttttttttimensional array</li>
         <li>Two-dimensional array</li>
         <li>Associative Array</li>
       </ul>
