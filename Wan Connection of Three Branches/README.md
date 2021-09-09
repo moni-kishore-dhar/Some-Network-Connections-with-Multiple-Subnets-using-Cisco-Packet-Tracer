@@ -18,7 +18,7 @@
   </ul> <br><br><br>
  
   	<h3>Design</h3><br>
-  	<img src="Screenshot of Setup.jpg" width="1000" height="500"><br>
+  	<img src="Screenshot of Setup.jpg" width="500" height="500"><br>
   
 
 </body>
