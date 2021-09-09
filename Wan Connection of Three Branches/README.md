@@ -4,8 +4,6 @@
 	<body>
 
 		<h1>Wan Connection of Three Branches</h1>
-
-
 			<ul>
  				<li>The purpose of this project is to design a suitable network system for an organization which has three branches in three different cities. All branches are connected to the Wan connection.</li>
  
@@ -17,12 +15,6 @@
   				
   				<li>Web name for DNS is www.dux.com. Can be accessed from any end device. Just go to web browser from desktop option in any end device and type (www.dux.com) in the url section.</li>
   			</ul>
-
-
-			
-		<center>
-			<img src="Screenshot of Setup.jpg" width="500" height="500">
-		</center>
 
 	</body>
 </html>
