@@ -1,4 +1,6 @@
-<b>Abstract:</b>
+
+<h1>A full-fledged network for an organization with multiple subnets</h1>
+<h3>Abstract:</h3>
 The purpose of this project is to design a suitable network system for International Apex University in such a way that represents how much efficient the interconnectivity of the system and sub networks of the whole university is. Both wired and wireless connectivity establish in this university’s network infrastructure. This university networks infrastructure consists two lab, single subnet for each server room, reception, classroom, library, admission office, administrative office, employee room, faculty room which are connected with 5 routers using wire and this network also provides wireless internet access for everyone. This complex network supports business process like admissions, results, advising etc.
 
 <b>Introduction:</b>
