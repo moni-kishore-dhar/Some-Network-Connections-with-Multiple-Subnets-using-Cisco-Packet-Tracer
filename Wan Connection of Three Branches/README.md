@@ -2,35 +2,18 @@
 <html>
 <body>
 
-  <h2>Array, Loop and some OOP concepts</h2>
+  <h2>Wan Connection of Three Branches</h2>
 
   <ul>
-    <li>Array:
-      <ul>
-        <li>One-dtttttttttttimensional array</li>
-        <li>Two-dimensional array</li>
-        <li>Associative Array</li>
-      </ul>
+    <li>The purpose of this project is to design a suitable network system for an organization which has three branches in three different cities. All branches are connected to the Wan connection.
     </li>
-    <li>Loop:
-      <ul>
-        <li>For Loop</li>
-        <li>Foreach Loop</li>
-      </ul>
+    <li>For routers I have used class B ( 172.168.0.0 ) IP addresses in serial2/0 and class C (192.168.10.0) ip addresses in fastethernet.
     </li>
-    <li>OOP:
-      <ul>
-        <li>Three access modifiers
-          <ul>
-            <li>Public</li>
-            <li>Protected</li>
-            <li>Private</li>
-          </ul>
-        </li>
-        <li>Property & Method</li>
-        <li>Constructor</li>
-        <li>Inheritance</li>
-      </ul>
+    <li>I have used only one server to set up DHCP DNS HTTP (Server IP: 192.168.10.253). All the end device have DHCP connection.
+    </li>
+    <li>I have designed a small webpage in HTTP server using only html since packet tracer don't support any CSS (inline, internal, external ) or Bootstrap.
+    </li>
+    <li>Web name for DNS is www.dux.com. Can be accessed from any end device. Just go to web browser from desktop option in any end device and type (www.dux.com) in the url section.
     </li>
   </ul>  
 
