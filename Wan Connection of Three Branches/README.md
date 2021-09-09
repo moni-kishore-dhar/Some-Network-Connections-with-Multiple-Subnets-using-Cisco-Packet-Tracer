@@ -17,8 +17,8 @@
     </li><br>
   </ul> <br><br><br>
  
-  	<h2>Design</h2>
-  	<img src="Screenshot of Setup.jpg" width="500" height="500"><br>
+  <h2>Design</h2>
+  <img src="Screenshot of Setup.jpg" width="500" height="500"><br>
   
 
 </body>
